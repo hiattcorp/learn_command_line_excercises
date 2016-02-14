@@ -1,9 +1,9 @@
 # Chapter 1
 ##Command Line Homework
-| ------------- |:-------------:| -----:|
-| pwd | print working directory |
-| hostname | my computer's network name |
-| mkdir | make directory |
+| ------------- |:-------------:|
+| pwd |print working directory |
+| hostname |my computer's network name |
+| mkdir |make directory |
 | cd | change directory |
 | ls | list directory |
 | rmdir | remove directory |
