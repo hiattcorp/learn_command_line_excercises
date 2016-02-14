@@ -1,5 +1,6 @@
 # Chapter 1
 ##Command Line Homework
+| Command | What it does |
 | ------------- |:-------------:|
 | pwd |print working directory |
 | hostname |my computer's network name |
