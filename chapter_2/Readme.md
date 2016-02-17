@@ -5,7 +5,7 @@
 
 ##2) Are you in the class directory?
 ###I would run a pwd
-###Yes because part of the path I am in is the davinci_coders_t1_2016 directory /Users/jerinhiatt/workspace/davinci_coders_t1_2016/homework/learn_command_line_exercises/chapter_2
+###Technically no, I am multiple subdirectories away from my class directory. This is the actually directory I'm in - davinci_coders_t1_2016 directory /Users/jerinhiatt/workspace/davinci_coders_t1_2016/homework/learn_command_line_exercises/chapter_2
 
 ##3) Are you in your home directory?
 ###If I run cd ~/ it will take me to my home directory, if I do that and run a pwd I get this output
