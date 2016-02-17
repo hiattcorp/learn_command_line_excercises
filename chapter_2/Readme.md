@@ -22,5 +22,6 @@
 ###Then I click into the davinci_coders_t1_2016 class folder
 ###Then I click into the homework folder
 ###Then I click into the learn_command_line_exercises folder
-###Lastly I click into the Chapter_2 folder
+###Lastly I click into the Chapter_2 folder 
+
 
