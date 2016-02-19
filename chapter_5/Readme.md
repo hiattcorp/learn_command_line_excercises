@@ -11,11 +11,11 @@ Not sure if I understand this question. It looks like with cd temp we do go into
 
 ##Can you go to the slash temp directory?
 
-No, I can only get to the temp directory with cd temp
+Yes, by using the cd /tmp command
 
 ##Can you go to the slash temp slash log directory?
 
-No, same here, the slash won't work in this case
+No, all combinations of the cd /tmp /log did not work. Also, I did an ls while in the /tmp folder and there was no option for /log
 
 ##What does the .. argument to cd do?
 
