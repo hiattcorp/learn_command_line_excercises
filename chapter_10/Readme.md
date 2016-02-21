@@ -16,7 +16,9 @@ com.apple.launchd.luseJq1giM
 
 >Can you copy .bash_profile in your home directory to the current directory?
 
-No, I from the home directory I tried cp .bash_profile ~/workspace/davinci_coders_t1_2016/homework/learn_command_line_exercises/ and it did not work.
+Yes, I used this command while I was in the workspace directory and it worked.
+
+cp .bash_profile ~/workspace
 
 ##Do More
 
