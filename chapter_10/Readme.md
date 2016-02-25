@@ -18,7 +18,7 @@ com.apple.launchd.luseJq1giM
 
 Yes, I used this command while I was in the workspace directory and it worked.
 
-cp .bash_profile ~/workspace
+Jhis-MacBook-Pro:homework $ cp ~/.bash_profile .
 
 ##Do More
 
