@@ -12,3 +12,7 @@
 ?Can you print all the lines in text files that have your first and last name in them?
 
 ###grep "Jerin Hiatt" *.txt
+
+>Add a comment to the Readme.md that explains what the -i option to grep accomplishes.
+
+the -i ignores the case in the search so "New" or "new" could both be found searching for "new" using the -i
