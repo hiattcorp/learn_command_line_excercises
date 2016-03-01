@@ -9,7 +9,7 @@
 
 ###grep davinci bar.txt
 
-?Can you print all the lines in text files that have your first and last name in them?
+>Can you print all the lines in text files that have your first and last name in them?
 
 ###grep "Jerin Hiatt" *.txt
 
