@@ -1,15 +1,14 @@
 #Chapter 13 Questions
 
->Can you remove blah.txt?
+>Alternative "english" ways of asking for your working directory:
 
-###rm blah.txt
+print working directory PWD
 
->Let's get rid of our development log file.
+>Can you show me the contents of database.yml?
 
-###Yes in the log directory I would do this command
+cat database.yml
 
-###rm development.log
+>What is in your Gemfile?
 
->Can you remove everything in the slash temp slash foo directory?
+cat Gemfile
 
-###No you get a permission denied error when you try and do this
