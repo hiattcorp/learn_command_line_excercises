@@ -3,7 +3,7 @@
 
 >Show me the lines in foo.txt that have "ERROR" in them.
 
-###grep error foo.txt
+###grep ERROR foo.txt
 
 >Show me the lines in bar.txt that have "davinci" in them.
 
