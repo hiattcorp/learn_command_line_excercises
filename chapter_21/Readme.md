@@ -17,4 +17,15 @@
 
 >Can you set your environment to have DEBUG set to true?
 
-###Yes by running --debug
+###I could not find this in the command line crash course book unless I just missed it completely. I found the info on www.schrodinger.com.
+ 
+### The way to do it is:
+```
+export debug = true
+```
+
+>To change path you would do something similar. Below is an example
+
+```
+export PATH=$PATH:/usr/local/database/bin
+```
