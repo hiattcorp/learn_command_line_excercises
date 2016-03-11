@@ -3,13 +3,13 @@
 >Alternative "english" ways of asking you to export some stuff:
 
 >Can you set the debug environment variable to true?
-
-###Env DEBUG TRUE
-
+```
+export DEBUG = true
+```
 >Can you remove the debug environment variable?
-
-###Yes, just exiting the terminal session
-
+```
+unset DEBUG
+```
 >Add your environment variables, and what they do to your Readme.md.
 
 ###GEM_HOME=Current default ruby version for Gems
